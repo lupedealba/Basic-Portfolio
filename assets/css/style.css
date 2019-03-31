@@ -163,6 +163,6 @@ p {
     margin-left: 283px;
 }
 
-.card {
-    position: relative;
+.card-text {
+    text-align: center;
 }
